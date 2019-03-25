@@ -22,9 +22,11 @@ img{
     }
   .isosceles{
       float: left;
-      
-      
+       
   }
   .equilateral{
       float: inherit;
+  }
+  .scalene{
+    float: right;
   }
