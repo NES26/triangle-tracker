@@ -5,9 +5,11 @@ function checkinputs()
 base = parseInt(document.Triangle_Inputs.input1.value);
 height = parseInt(document.Triangle_Inputs.input2.value);
 hypotenuse = parseInt(document.Triangle_Inputs.input3.value);
+
 /*var sides = function(base,height,hypotenuse){
   return(base+height>hypotenuse && height + hypotenuse>base && hypotenuse + base>height)
 }*/
+
 if(height === base && height === hypotenuse) {
   alert ("it's equlateral");
 } else if ( base === height || hypotenuse === base || hypotenuse === height) {
