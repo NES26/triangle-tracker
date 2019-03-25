@@ -12,11 +12,19 @@ I also used JavaScript
 * commit work in github
 * use the html file to locate and view you work.
 
-
 ## Technologies Used
 Some of the languages and tools I used to create this app are;
 HTML.I used html to write the contents I want to be seen in my README and also used CSS to style it to look nice and also the JavaScript
 i also used Visual studio code to run the necessary codes.
+## BDD
+|BEHAVIOUR                                 | INPUT                         | OUTPUT               |
+|..........................................|...............................|......................|
+|All sides are equal                       |height=base=hypotenuse         |Equilateral Triangle  |
+|Two sides are equal                       |height=8,base=8,hypotenuse=6   |Isosceles Triangle    |
+|No side is equal to the other             |height=8,base=6,hypotenuse=4   |Scalene Triangle      |
+|Two sides are greater than the third side |height=10,base=6,hypotenuse=2  |Scalene Triangle      |
+|Two sides are less than the third side    |height=2,base=3,hypotenuse=8   |Not a triangle        |
+
 ## Support and contact details
 If you run into any issues or have questions, ideas or concerns.  Feel free to contact me with the contact information below:
 TEL: 070 375 825 1
